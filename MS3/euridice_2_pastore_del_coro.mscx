@@ -1948,13 +1948,16 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -8576,17 +8579,19 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <StaffText>
             <style>System</style>
             <text>Replica a 5. tutto il coro.</text>
             </StaffText>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -24341,13 +24346,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -34773,13 +34780,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -45337,13 +45346,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -50321,13 +50332,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -55889,13 +55902,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -63697,13 +63712,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -69482,9 +69499,12 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -69499,9 +69519,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -76418,9 +76435,12 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -76429,9 +76449,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -82927,9 +82944,12 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -82938,9 +82958,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -89141,9 +89158,12 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -89152,9 +89172,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -95919,9 +95936,12 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -95930,9 +95950,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -103919,13 +103936,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -111630,13 +111649,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -116750,13 +116771,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -121612,13 +121635,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -126814,13 +126839,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -131941,13 +131968,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -137938,13 +137967,15 @@
             <durationType>measure</durationType>
             <duration>6/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -143461,13 +143492,15 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>

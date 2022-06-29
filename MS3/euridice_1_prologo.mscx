@@ -344,7 +344,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/2</ticks_f>
+              <ticks_f>0/4</ticks_f>
               <text>ti</text>
               </Lyrics>
             <Note>
@@ -356,7 +356,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>fof</text>
+              <text>sos</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -866,7 +866,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>fembian</text>
+              <text>sembian</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>

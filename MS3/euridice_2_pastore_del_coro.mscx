@@ -4922,10 +4922,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -11122,10 +11127,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -29025,8 +29035,12 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
@@ -35959,10 +35973,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -46525,10 +46544,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -51511,10 +51535,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -58479,10 +58508,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -64891,10 +64925,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -71372,10 +71411,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -78353,10 +78397,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -84697,10 +84746,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -90901,10 +90955,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -97575,10 +97634,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -106319,10 +106383,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -112828,10 +112897,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -117950,10 +118024,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -122814,10 +122893,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -128018,10 +128102,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -133451,10 +133540,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -139146,10 +139240,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -148191,8 +148290,12 @@
             </FiguredBass>
           </voice>
         </Measure>
-      <Measure len="2/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>2</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Chord>
             <durationType>whole</durationType>
             <Note>

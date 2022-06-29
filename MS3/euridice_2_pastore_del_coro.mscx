@@ -5022,13 +5022,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -11227,13 +11242,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -29142,13 +29172,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -36073,13 +36118,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -46644,13 +46704,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -51635,13 +51710,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -58608,13 +58698,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -65025,13 +65130,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -71794,8 +71914,25 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Chord>
             <dots>1</dots>
             <durationType>whole</durationType>
@@ -78497,13 +78634,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -84846,13 +84998,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -91055,11 +91222,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -97734,13 +97918,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -106483,13 +106682,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -113295,8 +113509,25 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Chord>
             <dots>1</dots>
             <durationType>whole</durationType>
@@ -118242,8 +118473,25 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Chord>
             <dots>1</dots>
             <durationType>whole</durationType>
@@ -122993,13 +123241,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -128202,13 +128465,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -133640,13 +133918,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -139340,13 +139633,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -148393,11 +148701,28 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="272"/>
+              <Node pos="12" action="512"/>
+              <Node pos="16" action="273"/>
+              <Node pos="20" action="512"/>
+              <Node pos="24" action="272"/>
+              <Node pos="28" action="512"/>
+              <Node pos="32" action="273"/>
+              <Node pos="36" action="512"/>
+              <Node pos="40" action="272"/>
+              <Node pos="44" action="512"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
           </voice>
         </Measure>

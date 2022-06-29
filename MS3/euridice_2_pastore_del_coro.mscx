@@ -5196,15 +5196,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -11421,15 +11422,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -29356,15 +29358,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -36307,15 +36310,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -46898,15 +46902,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -51909,15 +51914,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -58902,15 +58908,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -65339,15 +65346,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -72363,8 +72371,12 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Chord>
             <dots>1</dots>
             <durationType>whole</durationType>
@@ -72376,9 +72388,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -78852,15 +78861,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -85221,15 +85231,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -92010,15 +92021,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -98150,15 +98162,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -106919,15 +106932,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -113945,8 +113959,12 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Chord>
             <dots>1</dots>
             <durationType>whole</durationType>
@@ -113955,9 +113973,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -118830,8 +118845,12 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Chord>
             <dots>1</dots>
             <durationType>whole</durationType>
@@ -118840,9 +118859,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -123491,15 +123507,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -128720,15 +128737,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -134178,15 +134196,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -139898,15 +139917,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -149244,15 +149264,16 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>2</sigD>
+            </TimeSig>
           <Rest>
-            <dots>1</dots>
-            <durationType>whole</durationType>
+            <durationType>measure</durationType>
+            <duration>3/2</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>

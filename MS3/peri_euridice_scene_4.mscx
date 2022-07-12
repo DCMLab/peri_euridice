@@ -20435,7 +20435,6 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
-            <linkedMain/>
             </BarLine>
           <Chord>
             <durationType>quarter</durationType>
@@ -24449,12 +24448,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-1</staves>
-                </location>
-              <indexDiff>-1</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -30134,12 +30127,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              <indexDiff>-2</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -34004,12 +33991,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-3</staves>
-                </location>
-              <indexDiff>-3</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -37807,12 +37788,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-4</staves>
-                </location>
-              <indexDiff>-4</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -40816,12 +40791,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              <indexDiff>-5</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -44238,12 +44207,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-6</staves>
-                </location>
-              <indexDiff>-6</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>
@@ -47663,12 +47626,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-7</staves>
-                </location>
-              <indexDiff>-7</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>
@@ -50652,12 +50609,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-8</staves>
-                </location>
-              <indexDiff>-8</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>
@@ -54008,12 +53959,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-9</staves>
-                </location>
-              <indexDiff>-9</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>

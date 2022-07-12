@@ -6,9 +6,11 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 
 
 # Overview
-|               file_name               |measures|labels|standard|annotators|reviewers|
-|---------------------------------------|-------:|-----:|--------|----------|---------|
-|euridice_1_prologo                     |      14|     0|        |          |         |
-|euridice_2_pastore_del_coro            |     538|     2|        |          |         |
-|euridice_3_venere_e_orfeo              |     304|     0|        |          |         |
-|euridice_4_latora_a_la_scena_come_prima|     260|     0|        |          |         |
+|      file_name      |measures|labels|standard|annotators|reviewers|
+|---------------------|-------:|-----:|--------|----------|---------|
+|peri_euridice_scene_0|      14|     0|        |          |         |
+|peri_euridice_scene_1|     119|     2|        |          |         |
+|peri_euridice_scene_2|     288|     0|        |          |         |
+|peri_euridice_scene_3|     135|     0|        |          |         |
+|peri_euridice_scene_4|     304|     0|        |          |         |
+|peri_euridice_scene_5|     260|     0|        |          |         |

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -1532,12 +1532,6 @@
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
-          </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <synti>Fluid</synti>
-          <midiPort>1</midiPort>
-          <midiChannel>6</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -36350,9 +36344,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name/>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -36360,9 +36351,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name/>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>

@@ -107,19 +107,29 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Composer</metaTag>
+    <metaTag name="composed_end">1600</metaTag>
+    <metaTag name="composed_start">1600</metaTag>
+    <metaTag name="composer">Jacopo Peri</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-11-16</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
+    <metaTag name="librettist">Ottavio Rinuccini</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/cfbcef82-e09f-4630-a939-e2bdec0eeadd</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="sceneNumber">0</metaTag>
+    <metaTag name="sceneTitle">Prologue</metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="viaf">http://viaf.org/viaf/184548044/#Peri,_Jacopo,_1561-1633._|_Euridice</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q748501</metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Title</metaTag>
+    <metaTag name="workTitle">Euridice</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -344,7 +354,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/2</ticks_f>
+              <ticks_f>0/4</ticks_f>
               <text>ti</text>
               </Lyrics>
             <Note>
@@ -356,7 +366,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>fof</text>
+              <text>sos</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -866,7 +876,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>fembian</text>
+              <text>sembian</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>

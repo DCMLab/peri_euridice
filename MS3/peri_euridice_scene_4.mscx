@@ -107,19 +107,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1600</metaTag>
+    <metaTag name="composed_start">1600</metaTag>
+    <metaTag name="composer">Jacopo Peri</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-12-07</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
+    <metaTag name="librettist">Ottavio Rinuccini</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/cfbcef82-e09f-4630-a939-e2bdec0eeadd</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="sceneNumber">4</metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="viaf">http://viaf.org/viaf/184548044/#Peri,_Jacopo,_1561-1633._|_Euridice</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q748501</metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Venere, e Orfeo</metaTag>
+    <metaTag name="workTitle">Euridice</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -20426,7 +20435,6 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
-            <linkedMain/>
             </BarLine>
           <Chord>
             <durationType>quarter</durationType>
@@ -24440,12 +24448,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-1</staves>
-                </location>
-              <indexDiff>-1</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -30125,12 +30127,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              <indexDiff>-2</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -33995,12 +33991,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-3</staves>
-                </location>
-              <indexDiff>-3</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -37798,12 +37788,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-4</staves>
-                </location>
-              <indexDiff>-4</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -40807,12 +40791,6 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              <indexDiff>-5</indexDiff>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -44229,12 +44207,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-6</staves>
-                </location>
-              <indexDiff>-6</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>
@@ -47654,12 +47626,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-7</staves>
-                </location>
-              <indexDiff>-7</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>
@@ -50643,12 +50609,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-8</staves>
-                </location>
-              <indexDiff>-8</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>
@@ -53999,12 +53959,6 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
-            <linked>
-              <location>
-                <staves>-9</staves>
-                </location>
-              <indexDiff>-9</indexDiff>
-              </linked>
             </BarLine>
           <Rest>
             <durationType>whole</durationType>

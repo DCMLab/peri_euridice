@@ -4,7 +4,7 @@
 # Overview
 |      file_name      |measures|labels|standard| annotators  |
 |---------------------|-------:|-----:|--------|-------------|
-|peri_euridice_scene_0|      14|    32|2.3.0   |Davor Krkljus|
+|peri_euridice_scene_0|      14|    31|2.3.0   |Davor Krkljus|
 |peri_euridice_scene_1|     119|     0|        |             |
 |peri_euridice_scene_2|     288|     0|        |             |
 |peri_euridice_scene_3|     135|     0|        |             |

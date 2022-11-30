@@ -1243,10 +1243,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1263,7 +1259,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

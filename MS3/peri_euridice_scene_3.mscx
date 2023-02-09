@@ -100,12 +100,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Davor Krkljuš</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1600</metaTag>
     <metaTag name="composed_start">1600</metaTag>
     <metaTag name="composer">Jacopo Peri</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-11-17</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
     <metaTag name="librettist">Ottavio Rinuccini</metaTag>
     <metaTag name="lyricist"></metaTag>
@@ -115,6 +117,7 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/cfbcef82-e09f-4630-a939-e2bdec0eeadd</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">ST</metaTag>
     <metaTag name="sceneNumber">3</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>

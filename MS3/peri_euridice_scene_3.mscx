@@ -41790,21 +41790,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/iii/IV</name>
+            <name>V(4)/vi/IV</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii/IV</name>
+            <name>V/vi/IV</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/iii/IV</name>
+            <name>I/vi/IV</name>
             </Harmony>
           </voice>
         </Measure>

@@ -39280,7 +39280,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V/ii</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -39296,10 +39296,6 @@
               <prefix>4</prefix>
               </FiguredBassItem>
             </FiguredBass>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/ii</name>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>

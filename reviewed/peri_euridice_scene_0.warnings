@@ -1,0 +1,16 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.peri_euridice.peri_euridice_scene_0 --
+	No metronome mark found in the very first measure nor anywhere else in the score.
+	* Please add one at the very beginning and hide it if it's not from the original print edition.
+	* Make sure to choose the rhythmic unit that corresponds to beats in this piece and to set another mark wherever that unit changes.
+	* The tempo marks can be rough estimates, maybe cross-checked with a recording.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.peri_euridice.peri_euridice_scene_0 --
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             3a         }
+	            4a         {             5a         }
+	            6a         {            11a         }
+	            8a         {            14a         }
+	           11a         {            NaN       NaN

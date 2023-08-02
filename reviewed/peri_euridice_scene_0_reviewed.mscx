@@ -1332,7 +1332,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/IV-bVII}</name>
+            <name>IV/IV}-bVII}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>

@@ -327,6 +327,12 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>2.6666666666666665</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text> = 40</text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1332,7 +1338,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>IV/IV-bVII}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV/IV}-bVII}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>

@@ -1,21 +1,35 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 46) ms3.Parse.peri_euridice.peri_euridice_scene_1 --
-	The incomplete MC 46 (timesig 3/2, act_dur 1/2) is completed by 1 incorrect duration (expected: 1):
-	{47: Fraction(3, 1)}
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 64, '1/2', 'VIIM7') ms3.Parse.peri_euridice.peri_euridice_scene_1 --
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 46) ms3.Parse.peri_euridice.peri_euridice_scene_1
+	None of the MCs following the irregular MC 46 complete it.
+	   nominal_duration actual_duration expected_completion   next
+	mc                                                            
+	46              3/2             1/2                   1  (47,)
+	47                3               3                   0  (48,)
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.peri_euridice.peri_euridice_scene_1
+	No metronome mark found in the first measure nor anywhere else in the score.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 64, '1/2', 'VIIM7') ms3.Parse.peri_euridice.peri_euridice_scene_1
 	The label 'VIIM7' in m. 62, onset 1/2 (MC 64, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of G.i, it expresses the scale degrees ('7', '2', '4', '#6') [('F', 'A', 'C', 'E')].
-	The corresponding score segment has 0 within-label and 2 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 72, '3/2', 'V') ms3.Parse.peri_euridice.peri_euridice_scene_1 --
+	In the context of G.i, it expresses the scale degrees
+	('7', '2', '4', '#6') [('F', 'A', 'C', 'E')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 72, '3/2', 'V') ms3.Parse.peri_euridice.peri_euridice_scene_1
 	The label 'V' in m. 70, onset 3/2 (MC 72, onset 3/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of G.i, it expresses the scale degrees ('5', '#7', '2') [('D', 'F#', 'A')].
-	The corresponding score segment has 0 within-label and 2 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 94, '0', 'III6') ms3.Parse.peri_euridice.peri_euridice_scene_1 --
+	In the context of G.i, it expresses the scale degrees
+	('5', '#7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 94, '0', 'III6') ms3.Parse.peri_euridice.peri_euridice_scene_1
 	The label 'III6' in m. 92, onset 0 (MC 94, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of G.i, it expresses the scale degrees ('5', '7', '3') [('D', 'F', 'Bb')].
-	The corresponding score segment has 1 within-label and 2 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+	In the context of G.i, it expresses the scale degrees
+	('5', '7', '3') [('D', 'F', 'Bb')].
+	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.

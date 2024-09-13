@@ -1023,7 +1023,19 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>Venere, e Orfeo</text>
+          <text>4. Scorto da immortal guida</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Euridice</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Jacopo Peri</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Ottavio Rinuccini</text>
           </Text>
         </VBox>
       <Measure>
@@ -1065,6 +1077,12 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Arial"></font> = 60</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>

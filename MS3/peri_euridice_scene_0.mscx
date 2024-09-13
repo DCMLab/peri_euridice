@@ -106,9 +106,11 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q205519</metaTag>
     <metaTag name="annotators">Davor Krkljus</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1600</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
     <metaTag name="composed_start">1600</metaTag>
     <metaTag name="composer">Jacopo Peri</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -116,11 +118,12 @@
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
     <metaTag name="librettist">Ottavio Rinuccini</metaTag>
-    <metaTag name="lyricist"></metaTag>
+    <metaTag name="lyricist">Ottavio Rinuccini</metaTag>
     <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Prologue</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/cfbcef82-e09f-4630-a939-e2bdec0eeadd</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/28586</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">ST</metaTag>

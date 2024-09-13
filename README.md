@@ -12,4 +12,4 @@
 |peri_euridice_scene_5|     260|   735|2.3.0   |Davor Krkljus|ST       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

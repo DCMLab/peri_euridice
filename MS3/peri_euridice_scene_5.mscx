@@ -71489,7 +71489,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC</name>
+            <name>i|PAC}</name>
             </Harmony>
           <location>
             <fractions>1/1</fractions>
@@ -71660,7 +71660,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V|PAC</name>
+            <name>I/V|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -71822,7 +71822,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>

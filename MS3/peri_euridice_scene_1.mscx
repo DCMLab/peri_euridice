@@ -1548,7 +1548,24 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>1. Ninfe, ch’i bei crin d’oro</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Euridice</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Jacopo Peri</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Ottavio Rinuccini</text>
+          </Text>
+        </VBox>
       <Measure>
         <irregular>1</irregular>
         <voice>
@@ -1591,6 +1608,12 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Arial"/> = 60</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/2</duration>

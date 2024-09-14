@@ -100,9 +100,11 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q205519</metaTag>
     <metaTag name="annotators">Davor Krkljus</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1600</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
     <metaTag name="composed_start">1600</metaTag>
     <metaTag name="composer">Jacopo Peri</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -110,11 +112,12 @@
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
     <metaTag name="librettist">Ottavio Rinuccini</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="lyricist">Ottavio Rinuccini</metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Ninfe, ch’i bei crin d’oro</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/cfbcef82-e09f-4630-a939-e2bdec0eeadd</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/28586</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">ST</metaTag>
@@ -1545,6 +1548,24 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>1. Ninfe, ch’i bei crin d’oro</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Euridice</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Jacopo Peri</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Ottavio Rinuccini</text>
+          </Text>
+        </VBox>
       <Measure>
         <irregular>1</irregular>
         <voice>
@@ -1587,6 +1608,12 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Arial"/> = 60</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/2</duration>

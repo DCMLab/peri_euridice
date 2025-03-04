@@ -13,3 +13,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 209, '0', 'i/i}') ms3.Parse.pe
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '7/4', 'V/V') ms3.Parse.peri_euridice.peri_euridice_scene_3
 	The label 'V/V' in m. 9, onset 7/4 (MC 9, onset 7/4) matches the figures.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '1', 'V7') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	The label 'V7' in m. 25, onset 1 (MC 25, onset 1) is plausible.
+

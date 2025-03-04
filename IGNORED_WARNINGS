@@ -7,3 +7,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 151, '3/4', 'V') ms3.Parse.per
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 179, '7/4', 'V/V') ms3.Parse.peri_euridice.peri_euridice_scene_2
 	The label 'V/V' in m. 179, onset 7/4 (MC 179, onset 7/4) corresponds to the figures.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 209, '0', 'i/i}') ms3.Parse.peri_euridice.peri_euridice_scene_2
+	The label 'i/i}' in m. 209, onset 0 (MC 209, onset 0) seems fine when looking at the figures. The b-natural in the voice could be an intentional cross relation.

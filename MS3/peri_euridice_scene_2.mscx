@@ -81223,7 +81223,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/V</name>
+            <name>V(4)/V</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -81236,10 +81236,6 @@
               <digit>11</digit>
               </FiguredBassItem>
             </FiguredBass>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(4)/V</name>
-            </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>

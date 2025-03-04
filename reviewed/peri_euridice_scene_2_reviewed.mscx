@@ -22450,7 +22450,6 @@
               <text>lla</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -81697,6 +81696,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(4)/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -81712,6 +81717,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(4)/V</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>

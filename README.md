@@ -33,7 +33,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 |---------------------|-------:|-----:|--------|-------------|---------|
 |peri_euridice_scene_0|      14|    31|2.3.0   |Davor Krkljus|ST       |
 |peri_euridice_scene_1|     119|   342|2.3.0   |Davor Krkljus|ST       |
-|peri_euridice_scene_2|     288|   733|2.3.0   |Davor Krkljus|ST       |
+|peri_euridice_scene_2|     288|   732|2.3.0   |Davor Krkljus|ST       |
 |peri_euridice_scene_3|     135|   323|2.3.0   |Davor Krkljuš|ST       |
 |peri_euridice_scene_4|     304|   724|2.3.0   |Davor Krkljus|ST       |
 |peri_euridice_scene_5|     260|   735|2.3.0   |Davor Krkljus|ST       |

@@ -1576,7 +1576,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Arial"/> = 60</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Arial"></font> = 60</b></text>
             </Tempo>
           <Rest>
             <durationType>whole</durationType>
@@ -74690,7 +74690,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6{</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -74730,7 +74730,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|PAC</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

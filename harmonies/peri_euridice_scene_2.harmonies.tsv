@@ -86,12 +86,12 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 34	34	264	264	1.0	1	1	4/2	21	1	IV(9)/bIII		G	I		IV(9)/bIII	IV			9	bIII			M	0	0	-4, 0, -3	-2	-4	-4
 34	34	265	265	1.0	5/4	5/4	4/2	21	1	IV/bIII		G	I		IV/bIII	IV				bIII			M	0	0	-4, 0, -3		-4	-4
 34	34	266	266	2.0	3/2	3/2	4/2	21	1	V/bIII		G	I		V/bIII	V				bIII			M	0	0	-2, 2, -1		-2	-2
-35	35	268	268	3.0	0	0	4/2	21	1	I/bIII}		G	I		I/bIII	I				bIII		}	M	0	0	-3, 1, -2		-3	-3
+35	35	268	268	3.0	0	0	4/2	21	1	I/bIII		G	I		I/bIII	I				bIII			M	0	0	-3, 1, -2		-3	-3
 35	35	271	271	0.5	3/4	3/4	4/2	21	1	IV/bIII		G	I		IV/bIII	IV				bIII			M	0	0	-4, 0, -3		-4	-4
 35	35	543/2	543/2	0.5	7/8	7/8	4/2	21	1	V/bIII		G	I		V/bIII	V				bIII			M	0	0	-2, 2, -1		-2	-2
 35	35	272	272	2.0	1	1	4/2	21	1	I/bIII		G	I		I/bIII	I				bIII			M	0	0	-3, 1, -2		-3	-3
 35	35	274	274	2.0	3/2	3/2	4/2	21	1	V/bIII|HC		G	I		V/bIII	V				bIII	HC		M	0	0	-2, 2, -1		-2	-2
-36	36	276	276	3.0	0	0	4/2	21	1	IV/IV{		G	I		IV/IV	IV				IV		{	M	0	0	-2, 2, -1		-2	-2
+36	36	276	276	3.0	0	0	4/2	21	1	IV/IV		G	I		IV/IV	IV				IV			M	0	0	-2, 2, -1		-2	-2
 36	36	279	279	1.0	3/4	3/4	4/2	21	1	V7/IV		G	I		V7/IV	V		7		IV			Mm7	0	0	0, 4, 1, -2		0	0
 36	36	280	280	6.0	1	1	4/2	21	1	I/IV|PAC}		G	I		I/IV	I				IV	PAC	}	M	0	0	-1, 3, 0		-1	-1
 37	37	284	284	0.0	0	0	4/2	21	1	{		G	I									{		0	0				

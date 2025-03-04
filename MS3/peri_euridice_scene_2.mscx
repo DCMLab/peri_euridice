@@ -76013,7 +76013,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/bIII}</name>
+            <name>I/bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -76082,7 +76082,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/IV{</name>
+            <name>IV/IV</name>
             </Harmony>
           <Chord>
             <dots>1</dots>

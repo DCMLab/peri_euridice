@@ -120,8 +120,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 57	56	452	452	0.0	1	1	4/2	13	1	{		D	iv									{		0	1				
 58	57	456	456	4.0	0	0	4/2	13	1	V/ii		D	iv		V/ii	V				ii			M	0	1	3, 7, 4		3	3
 58	57	460	460	4.0	1	1	4/2	13	1	ii		D	iv		ii	ii							m	0	1	2, -1, 3		2	2
-59	58	464	464	8.0	0	0	4/2	13	1	V7}		D	iv		V7	V		7				}	Mm7	0	1	1, 5, 2, -1		1	1
-59	58	468	468	0.0	1	1	4/2	13	1	{		D	iv									{		0	1				
+59	58	464	464	8.0	0	0	4/2	13	1	V7		D	iv		V7	V		7					Mm7	0	1	1, 5, 2, -1		1	1
 60	59	472	472	2.0	0	0	4/2	13	1	V(6)		D	iv		V(6)	V			6				M	0	1	1, 5, -3		1	1
 60	59	474	474	2.0	1/2	1/2	4/2	13	1	V		D	iv		V	V							M	0	1	1, 5, 2		1	1
 60	59	476	476	8.0	1	1	4/2	13	1	i		D	iv		i	i							m	0	1	0, -3, 1		0	0
@@ -130,9 +129,9 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 62	61	490	490	2.0	1/2	1/2	4/2	13	1	i/v{		D	iv		i/v	i				v		{	m	0	1	1, -2, 2		1	1
 62	61	492	492	2.0	1	1	4/2	13	1	V(4)/v		D	iv		V(4)/v	V			4	v			M	0	1	2, 1, 3		2	2
 62	61	494	494	2.0	3/2	3/2	4/2	13	1	V/v		D	iv		V/v	V				v			M	0	1	2, 6, 3		2	2
-63	62	496	496	4.0	0	0	4/2	13	1	i6/v}		D	iv		i6/v	i		6		v		}	m	0	1	-2, 2, 1		1	-2
+63	62	496	496	4.0	0	0	4/2	13	1	i6/v		D	iv		i6/v	i		6		v			m	0	1	-2, 2, 1		1	-2
 63	62	500	500	4.0	1	1	4/2	13	1	V7/ii		D	iv		V7/ii	V		7		ii			Mm7	0	1	3, 7, 4, 1		3	3
-64	63	504	504	12.0	0	0	4/2	13	1	V/ii{		D	iv		V/ii	V				ii		{	M	0	1	3, 7, 4		3	3
+64	63	504	504	12.0	0	0	4/2	13	1	V/ii		D	iv		V/ii	V				ii			M	0	1	3, 7, 4		3	3
 65	64	516	516	4.0	1	1	4/2	13	1	ii		D	iv		ii	ii							m	0	1	2, -1, 3		2	2
 66	65	520	520	1.0	0	0	4/2	13	1	V		D	iv		V	V							M	0	1	1, 5, 2		1	1
 66	65	521	521	2.0	1/4	1/4	4/2	13	1	V(4)		D	iv		V(4)	V			4				M	0	1	1, 0, 2		1	1
@@ -198,10 +197,9 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 86	85	682	682	0.0	1/2	1/2	4/2	13	1	{		D	iv									{		0	1				
 86	85	684	684	2.0	1	1	4/2	13	1	V7/ii		D	iv		V7/ii	V		7		ii			Mm7	0	1	3, 7, 4, 1		3	3
 86	85	686	686	4.0	3/2	3/2	4/2	13	1	IV/ii	IV7/ii	D	iv		IV/ii	IV				ii			M	0	1	1, 5, 2		1	1
-87	86	688	688	0.0	0	0	4/2	13	1	}		D	iv									}		0	1				
 87	86	690	690	2.0	1/2	1/2	4/2	13	1	iv6/ii		D	iv		iv6/ii	iv		6		ii			m	0	1	-2, 2, 1		1	-2
 87	86	692	692	2.0	1	1	4/2	13	1	V(64)/ii		D	iv		V(64)/ii	V			64	ii			M	0	1	3, 2, -1		3	3
-87	86	694	694	2.0	3/2	3/2	4/2	13	1	V/ii|HC		D	iv		V/ii	V				ii	HC		M	0	1	3, 7, 4		3	3
+87	86	694	694	2.0	3/2	3/2	4/2	13	1	V/ii|HC}		D	iv		V/ii	V				ii	HC	}	M	0	1	3, 7, 4		3	3
 88	87	696	696	12.0	0	0	4/2	13	1	v/ii{		D	iv		v/ii	v				ii		{	m	0	1	3, 0, 4		3	3
 89	88	708	708	4.0	1	1	4/2	13	1	V/v/ii		D	iv		V/v/ii	V				v/ii			M	0	1	4, 8, 5		4	4
 90	89	712	712	6.0	0	0	4/2	13	1	V/ii		D	iv		V/ii	V				ii			M	0	1	3, 7, 4		3	3
@@ -284,7 +282,6 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 122	121	974	974	2.0	3/2	3/2	4/2	13	1	V		D	iv		V	V							M	0	1	1, 5, 2		1	1
 123	122	976	976	4.0	0	0	4/2	13	1	I|PAC}		D	iv		I	I					PAC	}	M	0	1	0, 4, 1		0	0
 123	122	980	980	16.0	1	1	4/2	13	1	V/VII{		D	iv		V/VII	V				VII		{	M	0	1	-1, 3, 0		-1	-1
-125	124	992	992	0.0	0	0	4/2	13	1	}		D	iv									}		0	1				
 125	124	996	996	12.0	1	1	4/2	13	1	I/VII		D	iv		I/VII	I				VII			M	0	1	-2, 2, -1		-2	-2
 126	125	1000	1000	0.0	0	0	4/2	13	1	|IAC}		D	iv								IAC	}		0	1				
 126	125	1003	1003	0.0	3/4	3/4	4/2	13	1	{		D	iv									{		0	1				

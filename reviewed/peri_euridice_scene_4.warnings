@@ -18,10 +18,8 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.peri_euridice.peri_euridice_sce
 	           38a         {            43a         }
 	           43a         {            49a         }
 	           49a         {            56a         }
-	           56a         {            58a         }
-	           58a         {            61a         }
-	           61a         {            62a         }
-	           63a         {            67a         }
+	           56a         {            61a         }
+	           61a         {            67a         }
 	           67a         {            72a         }
 	           72a         {            75a         }
 	           75a         {            80a         }
@@ -37,53 +35,52 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.peri_euridice.peri_euridice_sce
 	          114a         {           117a         }
 	          117a         {           120a         }
 	          120a         {           122a         }
-	          122a         {           124a         }
-	          125a         {           125a         }
-	          129a         {           129a         }
-	          136a         {           136a         }
-	          139a         {           139a         }
-	          141a         {           141a         }
-	          143a         {           143a         }
-	          146a         {           145a         }
-	          151a         {           150a         }
-	          154a         {           154a         }
-	          162a         {           161a         }
-	          165a         {           165a         }
-	          171a         {           171a         }
-	          174a         {           173a         }
-	          180a         {           179a         }
-	          185a         {           185a         }
-	          193a         {           192a         }
-	          196a         {           196a         }
-	          203a         {           203a         }
-	          206a         {           206a         }
-	          209a         {           208a         }
+	          122a         {           125a         }
+	          125a         {           129a         }
+	          129a         {           136a         }
+	          136a         {           139a         }
+	          139a         {           141a         }
+	          141a         {           143a         }
+	          143a         {           145a         }
+	          146a         {           150a         }
+	          151a         {           154a         }
+	          154a         {           161a         }
+	          162a         {           165a         }
+	          165a         {           171a         }
+	          171a         {           173a         }
+	          174a         {           179a         }
+	          180a         {           185a         }
+	          185a         {           192a         }
+	          193a         {           196a         }
+	          196a         {           203a         }
+	          203a         {           206a         }
+	          206a         {           208a         }
+	          209a         {           213a         }
 	          214a         {           213a         }
-	          217a         {           213a         }
-	          220a         {           216a         }
-	          224a         {           220a         }
-	          229a         {           223a         }
-	          232a         {           228a         }
-	          235a         {           231a         }
-	          241a         {           235a         }
-	          243a         {           240a         }
-	          245a         {           243a         }
-	          249a         {           245a         }
-	          251a         {           248a         }
-	          254a         {           251a         }
-	          256a         {           254a         }
-	          260a         {           256a         }
-	          264a         {           259a         }
-	          269a         {           263a         }
-	          271a         {           268a         }
-	          275a         {           271a         }
-	          279a         {           274a         }
-	          284a         {           278a         }
-	          288a         {           283a         }
-	          291a         {           287a         }
-	          295a        }{           290a         }
-	          299a         {           295a        }{
-	           NaN       NaN           299a         }
+	          217a         {           216a         }
+	          220a         {           220a         }
+	          224a         {           223a         }
+	          229a         {           228a         }
+	          232a         {           231a         }
+	          235a         {           235a         }
+	          241a         {           240a         }
+	          243a         {           243a         }
+	          245a         {           245a         }
+	          249a         {           248a         }
+	          251a         {           251a         }
+	          254a         {           254a         }
+	          256a         {           256a         }
+	          260a         {           259a         }
+	          264a         {           263a         }
+	          269a         {           268a         }
+	          271a         {           271a         }
+	          275a         {           274a         }
+	          279a         {           278a         }
+	          284a         {           283a         }
+	          288a         {           287a         }
+	          291a         {           290a         }
+	          295a        }{           295a        }{
+	          299a         {           299a         }
 	           NaN       NaN           304a         }
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '7/4', 'viio6/V') ms3.Parse.peri_euridice.peri_euridice_scene_4
 	The label 'viio6/V' in m. 10, onset 7/4 (MC 11, onset 7/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).

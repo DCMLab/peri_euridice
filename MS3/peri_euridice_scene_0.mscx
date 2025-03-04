@@ -345,7 +345,7 @@
           <Tempo>
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Arial"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Arial"></font> = 72</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -1345,7 +1345,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/IV-bVII}</name>
+            <name>IV/IV-bVII</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1357,10 +1357,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>

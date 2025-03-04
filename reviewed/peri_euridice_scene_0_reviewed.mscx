@@ -1354,6 +1354,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV/IV-bVII}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV/IV-bVII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1368,6 +1374,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

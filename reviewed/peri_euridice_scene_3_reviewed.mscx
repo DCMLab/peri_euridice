@@ -103,6 +103,7 @@
     <metaTag name="P86 (composer)">Q205519</metaTag>
     <metaTag name="annotators">Davor Krkljuš</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1600</metaTag>
     <metaTag name="composed_source">https://imslp.org/wiki/Euridice_(Peri,_Jacopo)</metaTag>
     <metaTag name="composed_start">1600</metaTag>

@@ -1345,7 +1345,7 @@
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Arial"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Arial"></font> = 72</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -64367,7 +64367,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IVM7</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

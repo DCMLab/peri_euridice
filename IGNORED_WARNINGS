@@ -20,4 +20,8 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '1', 'V7') ms3.Parse.peri_
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 38, '1/2', 'V(64)/ii') ms3.Parse.peri_euridice.peri_euridice_scene_3
 	The label 'V(64)/ii' in m. 38, onset 1/2 (MC 38, onset 1/2) seems to correspond with the figures
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 66, '7/4', 'V') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	The label 'V' in m. 66, onset 7/4 (MC 66, onset 7/4) is the resolution chord from the preceding label.
+
+
 

@@ -10322,11 +10322,21 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <irregular>1</irregular>
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -11434,11 +11444,20 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -12673,11 +12692,20 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -13781,11 +13809,20 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -14889,11 +14926,20 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -15997,11 +16043,20 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -17105,11 +17160,20 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -18862,7 +18926,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -18870,6 +18934,10 @@
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -20949,7 +21017,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -20957,6 +21025,10 @@
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -22994,7 +23066,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -23002,6 +23074,10 @@
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -24956,7 +25032,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -24964,6 +25040,10 @@
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -26901,7 +26981,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -26909,6 +26989,10 @@
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -29643,7 +29727,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -29659,6 +29743,10 @@
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
@@ -30764,15 +30852,21 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -31878,15 +31972,21 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -32992,15 +33092,21 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -34110,15 +34216,21 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -35803,15 +35915,21 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -36917,15 +37035,21 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -42472,7 +42596,7 @@
             </Harmony>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/2">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42491,6 +42615,29 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>3/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(64)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure len="2/2">
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>whole</durationType>
@@ -42500,26 +42647,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(64)</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          <location>
-            <fractions>-5/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -42527,6 +42661,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -42534,6 +42669,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII(64)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -42541,6 +42677,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -42549,6 +42686,88 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII(64)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII(64)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -42560,6 +42779,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -42567,13 +42787,20 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I|PAC</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>3/4</fractions>
@@ -42581,6 +42808,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -42589,6 +42817,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -42600,6 +42829,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I|PAC</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>

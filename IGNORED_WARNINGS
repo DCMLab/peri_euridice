@@ -11,6 +11,10 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 179, '7/4', 'V/V') ms3.Parse.p
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 209, '0', 'i/i}') ms3.Parse.peri_euridice.peri_euridice_scene_2
 	The label 'i/i}' in m. 209, onset 0 (MC 209, onset 0) seems fine when looking at the figures. The b-natural in the voice could be an intentional cross relation.
 
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 132, 'voice/BarLine/subtype') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	mc 132: The missing value in 'voice/BarLine/subtype' was filled with 'double', present in 'staff' [14].
+	=> the double bar line is correctly shown in the measures TSV
+
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '7/4', 'V/V') ms3.Parse.peri_euridice.peri_euridice_scene_3
 	The label 'V/V' in m. 9, onset 7/4 (MC 9, onset 7/4) matches the figures.
 

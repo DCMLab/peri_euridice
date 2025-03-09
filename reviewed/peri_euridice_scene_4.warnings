@@ -1,5 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 300, 'voice/BarLine/subtype') ms3.Parse.peri_euridice.peri_euridice_scene_4
-	mc 300: The missing value in 'voice/BarLine/subtype' was filled with 'double', present in 'staff' [3, 13]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.

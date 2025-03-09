@@ -1,3 +1,45 @@
 INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 46) ms3.Parse.peri_euridice.peri_euridice_scene_1
 	None of the MCs following the irregular MC 46 complete it.
 	Because it's a pickup bar.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 151, '3/4', 'V') ms3.Parse.peri_euridice.peri_euridice_scene_2
+	The label 'V' in m. 151, onset 3/4 (MC 151, onset 3/4) seems plausible.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 179, '7/4', 'V/V') ms3.Parse.peri_euridice.peri_euridice_scene_2
+	The label 'V/V' in m. 179, onset 7/4 (MC 179, onset 7/4) corresponds to the figures.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 209, '0', 'i/i}') ms3.Parse.peri_euridice.peri_euridice_scene_2
+	The label 'i/i}' in m. 209, onset 0 (MC 209, onset 0) seems fine when looking at the figures. The b-natural in the voice could be an intentional cross relation.
+
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 132, 'voice/BarLine/subtype') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	mc 132: The missing value in 'voice/BarLine/subtype' was filled with 'double', present in 'staff' [14].
+	=> the double bar line is correctly shown in the measures TSV
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '7/4', 'V/V') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	The label 'V/V' in m. 9, onset 7/4 (MC 9, onset 7/4) matches the figures.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '1', 'V7') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	The label 'V7' in m. 25, onset 1 (MC 25, onset 1) is plausible.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 38, '1/2', 'V(64)/ii') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	The label 'V(64)/ii' in m. 38, onset 1/2 (MC 38, onset 1/2) seems to correspond with the figures
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 66, '7/4', 'V') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	The label 'V' in m. 66, onset 7/4 (MC 66, onset 7/4) is the resolution chord from the preceding label.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 86, '7/4', 'V') ms3.Parse.peri_euridice.peri_euridice_scene_3
+	The label 'V' in m. 86, onset 7/4 (MC 86, onset 7/4) is the resolution chord from the preceding label.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 177, '3/4', 'V/VII') ms3.Parse.peri_euridice.peri_euridice_scene_4
+	The label 'V/VII' in m. 176, onset 3/4 (MC 177, onset 3/4) is the resolution chord to the preceding label.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 217, '3/4', 'viio6/V') ms3.Parse.peri_euridice.peri_euridice_scene_4
+	The label 'viio6/V' in m. 216, onset 3/4 (MC 217, onset 3/4) seems plausible
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 78, '0', 'viio6(2)/V/V') ms3.Parse.peri_euridice.peri_euridice_scene_5
+	The label 'viio6(2)/V/V' in m. 77, onset 0 (MC 78, onset 0) happens again in 78 so I will leave the annotator's choice here'
+
+
+
+
+

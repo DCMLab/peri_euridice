@@ -1576,7 +1576,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Arial"/> = 60</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Arial"></font> = 60</b></text>
             </Tempo>
           <Rest>
             <durationType>whole</durationType>
@@ -74690,7 +74690,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6{</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -74730,7 +74730,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|PAC</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -75908,7 +75908,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/V-V43/V</name>
+            <name>V43/V</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -76013,7 +76013,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/bIII}</name>
+            <name>I/bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -76082,7 +76082,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/IV{</name>
+            <name>IV/IV</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -76618,7 +76618,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii/IV}</name>
+            <name>vi/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -76742,7 +76742,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii/IV</name>
+            <name>vi/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -76886,10 +76886,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -81227,7 +81223,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/V</name>
+            <name>V(4)/V</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -81240,10 +81236,6 @@
               <digit>11</digit>
               </FiguredBassItem>
             </FiguredBass>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(4)/V</name>
-            </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
@@ -81727,7 +81719,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>V(4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -83448,7 +83440,7 @@
             </FiguredBass>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/ii</name>
+            <name>#viio6/ii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -87546,7 +87538,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI/III}</name>
+            <name>VI}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -88109,7 +88101,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
